@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rca.Pool.Thermodynamics", "Rca.Pool.Thermodynamics\Rca.Pool.Thermodynamics.csproj", "{F2FF8C39-08F6-44C3-AA5C-93E272A7DC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rca.Pool.Thermodynamics_TestBench", "Rca.Pool.Thermodynamics_TestBench\Rca.Pool.Thermodynamics_TestBench.csproj", "{87DED3B1-5332-4DFD-85C6-70B820DF7D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FF8C39-08F6-44C3-AA5C-93E272A7DC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FF8C39-08F6-44C3-AA5C-93E272A7DC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FF8C39-08F6-44C3-AA5C-93E272A7DC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FF8C39-08F6-44C3-AA5C-93E272A7DC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DED3B1-5332-4DFD-85C6-70B820DF7D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DED3B1-5332-4DFD-85C6-70B820DF7D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DED3B1-5332-4DFD-85C6-70B820DF7D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DED3B1-5332-4DFD-85C6-70B820DF7D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9271E41-D9F8-4E50-BE5D-6B4B85CB5268}
+	EndGlobalSection
+EndGlobal
