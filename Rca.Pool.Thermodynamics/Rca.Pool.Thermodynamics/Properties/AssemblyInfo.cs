@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("RC-Art Solutions")]
 [assembly: AssemblyProduct("Rca.Pool.Thermodynamics")]
-[assembly: AssemblyCopyright("Copyright © RC-Art Solutions 2021")]
+[assembly: AssemblyCopyright("Copyright © RC-Art Solutions 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

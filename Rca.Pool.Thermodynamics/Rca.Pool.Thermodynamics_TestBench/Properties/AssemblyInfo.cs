@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Rca.Pool.Thermodynamics_TestBench")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("BOSCH")]
+[assembly: AssemblyCompany("RC-Art Solutions")]
 [assembly: AssemblyProduct("Rca.Pool.Thermodynamics_TestBench")]
-[assembly: AssemblyCopyright("Copyright © BOSCH 2022")]
+[assembly: AssemblyCopyright("Copyright © RC-Art Solutions 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
